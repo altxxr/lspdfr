@@ -6,8 +6,6 @@ Backups For [LSPDFR](https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lsp
 Having a backup or download for older versions/builds of LSPDFR.
 This is where you can download LSPDFR If your either a Cracked User or are in need of backward compatability
 
-[![Image](https://user-images.githubusercontent.com/88536910/138185370-70847c66-ec12-448a-a9f3-9803c79a0493.png)](http://adfoc.us/?refid=700817 "Join Now and Earn!")
-
 [![Image](https://raw.githubusercontent.com/JamTheAdventurer/lspdfr/main/Ad.jpg)](https://steamunlocked.net/103-grand-theft-auto-v-free-v4-download "Download Now!")
 
 ## Versions
