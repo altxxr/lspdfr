@@ -8,7 +8,7 @@ This is where you can download LSPDFR If your either a Cracked User or are in ne
 
 
 
-![[LSPDFR_GTA_SteamunlockedAD](https://steamunlocked.net/103-grand-theft-auto-v-free-v4-download/)](https://github.com/JamTheAdventurer/lspdfr/assets/94430800/f8e8529f-aedd-461c-948b-0c6af686594b)
+[![LSPDFR_GTA_SteamunlockedAD](https://github.com/JamTheAdventurer/lspdfr/assets/94430800/f8e8529f-aedd-461c-948b-0c6af686594b)](https://steamunlocked.net/103-grand-theft-auto-v-free-v4-download/)
 
 ## Versions
 [**v2699 - v2699.16**](https://github.com/JamTheAdventurer/lspdfr/releases/tag/LSPDFR_Build_8334)
