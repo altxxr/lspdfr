@@ -9,6 +9,10 @@ This is where you can download LSPDFR If your either a Cracked User or are in ne
 
 
 ## Versions
-- [**v1.0.2699 - v1.0.2699.16**](https://github.com/JamTheAdventurer/lspdfr/releases/tag/LSPDFR_Build_8334)
+- [**v1.0.2944**](https://github.com/JamTheAdventurer/lspdfr/releases/tag/LSPDFR_Build_8564)
+- [**v1.0.2824 & v1.0.2845**](https://github.com/JamTheAdventurer/lspdfr/releases/tag/LSPDFR_Build_8433)
+- [**v1.0.2802**](https://github.com/JamTheAdventurer/lspdfr/releases/tag/LSPDFR_Build_8382)
+- [**v1.0.2699.16**](https://github.com/JamTheAdventurer/lspdfr/releases/tag/LSPDFR_Build_8334)
+- [**V1.0.2699.0 (SteamUnlocked)**](https://github.com/JamTheAdventurer/lspdfr/releases/tag/LSPDFR_Build_8242)
 - [**v1.0.2545**](https://github.com/JamTheAdventurer/lspdfr/releases/tag/LSPDFR_Build_8037)
 
